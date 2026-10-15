@@ -10764,7 +10764,7 @@
     "data-key-settings-form-selector": "Вибір форми налаштувань ключа даних",
     "latest-data-key-settings-form-selector": "Вибір форми налаштувань ключа останніх даних",
     "all": "Усі",
-    "actual": "Фактичний",
+    "actual": "Поточний",
     "scada": "Символ SCADA",
     "deprecated": "Застарілий",
     "has-basic-mode": "Має базовий режим",
